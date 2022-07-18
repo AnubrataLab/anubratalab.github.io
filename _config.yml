@@ -6,11 +6,11 @@
 # 'jekyll serve'. If you change this file, please restart the server process.
 
 # Site settings
-title: qxresearch
-email: qxresearch20@gmail.com
-description: qxresearch is a deep learning Artificial Intelligence Research Team. At qxresearch, we think that AI can improve and make our lives easier. Learn more about our research ...
+title: anubratalab
+email: anubratalab@gmail.com
+description: anubratalab is a deep learning Artificial Intelligence Research Team. At anubratalab, we think that AI can improve and make our lives easier. Learn more about our research ...
 baseurl: ""
-url: "https://qxresearch.github.io"
+url: "https://anubratalab.github.io"
 
 include:
   - .htaccess
