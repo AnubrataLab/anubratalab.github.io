@@ -1,25 +1,29 @@
 ---
 title: "Research"
 layout: default
-excerpt: "qxresearch AI -- Research"
+excerpt: "AnubrataLab AI -- Research"
 sitemap: false
 permalink: /research/
 ---
 
 <p align="center">
-  <b>Research @qxresearch AI</b>
+  <b>Research @AnubrataLab AI</b>
 </p>
 
-qxresearch AI is at the forefront of innovation in Machine Intelligence, with active research exploring virtually all aspects of `Machine Learning`, including `Deep Learning` and `Computer Vision`. Exploring theory as well as application, much of our work on language, speech, translation, visual processing, ranking and prediction relies on Machine Intelligence. In all of those tasks and many others, we gather large volumes of direct or indirect evidence of relationships of interest, applying learning algorithms to understand and generalize.
+AnubrataLab AI is at the forefront of innovation in Machine Intelligence, with active research exploring virtually all aspects of `Machine Learning`, including `Deep Learning`, `Computer Vision` and `Natural Language Processing`. Exploring theory as well as application, much of our work on language, speech, translation, visual processing, ranking and prediction relies on Machine Intelligence. In all of those tasks and many others, we gather large volumes of direct or indirect evidence of relationships of interest, applying learning algorithms to understand and generalize.
 
 
 <p align="center">
-  <a href="https://qxresearch.github.io">
-    <img src="https://raw.githubusercontent.com/qxresearch/qxresearch.github.io/main/images/Delete/giphy.gif" alt="Logo">
+  <a href="https://anubratalab.github.io">
+    <img src="https://raw.githubusercontent.com/anubratalab/anubratalab.github.io/main/images/Delete/giphy.gif" alt="Logo">
   </a>
 </p>
 
 <p align="center">
+  <b>Coming Soon</b>
+</p>
+
+<!-- <p align="center">
   <b>Computer Vision</b>
 </p>
 
@@ -86,12 +90,12 @@ Project : [GitHub @qxresearchAI](https://github.com/qxresearch/qxresearch-event-
 YouTube : [@qxresearch/10-lines-of-code](https://www.youtube.com/watch?v=B0_0gK_CUpM&list=PLK_zxbpEUfmVPsXnl1wx1s6BD8eBUjuOM)
 <br>
 
-Tags : `automation` `windows-notification` `voice-recorder` `python` `gui`
+Tags : `automation` `windows-notification` `voice-recorder` `python` `gui` -->
 
 
 
 <p align="center">
-  <a href="https://qxresearch.github.io">
-    <img src="https://raw.githubusercontent.com/qxresearch/qxresearch.github.io/main/images/Delete/giphy.gif" alt="Logo">
+  <a href="https://anubratalab.github.io">
+    <img src="https://raw.githubusercontent.com/anubratalab/anubratalab.github.io/main/images/Delete/giphy.gif" alt="Logo">
   </a>
 </p>
