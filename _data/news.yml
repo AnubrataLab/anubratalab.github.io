@@ -1,19 +1,10 @@
-- date: 05/07/21
-  title: "Computer Vision Research Opportunity"
+- date: 18/07/2022
+  title: "Drug Discovery Research Opportunity"
   tags:
-    - computer-vision
+    - drug-discovery
     - research
-  content: If you are interested in Computer Vision research and project developement, 
-    then you are welcome to our research team. Requirements openCV YOLO mediapipe
+    - graph neural network
+  content: If you are interested in working on the intersection of Drug Discovery
+    and Machine Learning, we have something you might like.
     To join - 1. Send an mail to qxresearch20@gmail.com
-    with your CV and GitHub id.
-
-- date: 03/07/21
-  title: "Machine Learning Research Opportunity"
-  tags:
-    - machine-learning
-    - research
-  content: If you are interested in Machine Learning research and project developement, 
-    then you are welcome to our research team. Requirements TensorFlow Keras scikit‑learn
-    To join - 1. Send an mail to `qxresearch20@gmail.com` 
-    with your CV and GitHub id.
+    with your CV and GitHub ID.
