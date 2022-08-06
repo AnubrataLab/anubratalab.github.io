@@ -20,10 +20,6 @@ AnubrataLab AI is at the forefront of innovation in Machine Intelligence, with a
 </p>
 
 <p align="center">
-  <b>Coming Soon</b>
-</p>
-
-<p align="center">
   <b>Computer Vision</b>
 </p>
 

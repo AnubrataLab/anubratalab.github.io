@@ -38,7 +38,7 @@ In past couple of years, computing has expanded as a field and grown in its impo
 <br>
 
 <p>
-  <a href="https://github.com/orgs/qxresearch/people">
+  <a href="https://github.com/orgs/AnubrataLab/people">
     <img src="https://raw.githubusercontent.com/qxresearch/qxresearch.github.io/main/images/Delete/map%20qx.png" alt="Logo" width="622" height="386">
   </a>
 </p>
