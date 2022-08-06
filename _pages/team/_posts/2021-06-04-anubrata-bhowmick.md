@@ -3,7 +3,7 @@ layout: member
 category: staff
 title: Anubrata Bhowmick
 image: rmp.png
-role: Data and AI Scientist
+role: Lab Director/ Data and AI Scientist
 permalink: 'team/anubrata-bhowmick'
 social:
     twitter: https://twitter.com/anubrata_gunner

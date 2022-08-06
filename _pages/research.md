@@ -23,33 +23,31 @@ AnubrataLab AI is at the forefront of innovation in Machine Intelligence, with a
   <b>Coming Soon</b>
 </p>
 
-<!-- <p align="center">
+<p align="center">
   <b>Computer Vision</b>
 </p>
 
 <br>
 
-1. Face Mesh
+1. Universal Segmentor
 
-MediaPipe Face Mesh is a face geometry solution that estimates 468 3D face landmarks in real-time even on mobile devices. It employs machine learning (ML) to infer the 3D surface geometry, requiring only a single camera input without the need for a dedicated depth sensor. Utilizing lightweight model architectures together with GPU acceleration throughout the pipeline, the solution delivers real-time performance critical for live experiences.
+Universal Segmentor is a Deep Learning based segmentation algorithm which generalizes relatively well to all sorts of segmentation in Medical Imaging from Brain to Heart.
 
 <p align="center">
   <a href="https://mediapipe.dev">
-    <img src="https://raw.githubusercontent.com/qxresearch/qxresearch.github.io/main/images/Delete/face_mesh_ar_effects.gif" alt="Logo">
+    <img src="https://raw.githubusercontent.com/AnubrataLab/anubratalab.github.io/main/images/Delete/segmentation.gif" alt="Logo">
   </a>
 </p>
 
-Using mediapipe we will estimate 468 face landmarks in live video, which could be really helpful in AR effects utilizing facial surface geometry and face recognition. In the demo website you'll be able to see your unique facial landmarks. In this project we've also used partial static image to discovere as much landmarks as possible.
-
-Project : [GitHub @qxresearchAI](https://github.com/qxresearch/Face-Mesh-Detection) (Private Repository : `researching`)
+Project : [GitHub @AnubrataLab](https://github.com/AnubrataLab/Universal-Segmentor) (Private Repository : `researching`)
 <br>
-YouTube : [@qxresearch/mediapipe-face-mesh]()
+YouTube : TBA
 <br>
-Live Demo : [Your-face-mesh]()
+Live Demo : TBA
 
-Tags : `mediapipe` `face-mesh` `openCV` `python` `facial-landmark-detection`
+Tags : `python` `deep learning`
 
-<p align="center">
+<!-- <p align="center">
   <a href="https://qxresearch.github.io">
     <img src="https://raw.githubusercontent.com/qxresearch/qxresearch.github.io/main/images/Delete/giphy.gif" alt="Logo">
   </a>
