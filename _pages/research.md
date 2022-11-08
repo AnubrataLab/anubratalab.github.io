@@ -10,7 +10,7 @@ permalink: /research/
   <b>Research @AnubrataLab AI</b>
 </p>
 
-AnubrataLab AI is at the forefront of innovation in Machine Intelligence, with active research exploring virtually all aspects of `Machine Learning`, including `Deep Learning`, `Computer Vision` and `Natural Language Processing`. Exploring theory as well as application, much of our work on language, speech, translation, visual processing, ranking and prediction relies on Machine Intelligence. In all of those tasks and many others, we gather large volumes of direct or indirect evidence of relationships of interest, applying learning algorithms to understand and generalize.
+AnubrataLab AI is at the forefront of innovation in Machine Intelligence, with active research exploring virtually all aspects of `Machine Learning`, including `Deep Learning`, `Computer Vision` and `Graph Neural Networks`. Exploring theory as well as application, much of our work on language, speech, translation, visual processing, ranking and prediction relies on Machine Intelligence. In all of those tasks and many others, we gather large volumes of direct or indirect evidence of relationships of interest, applying learning algorithms to understand and generalize.
 
 
 <p align="center">
@@ -31,11 +31,11 @@ Route Optimization research studies all the roads/connections within a city and 
 
 <p align="center">
   <a href="https://mediapipe.dev">
-    <img src="https://raw.githubusercontent.com/AnubrataLab/anubratalab.github.io/main/images/Delete/route-optimization.png" alt="Logo">
+    <img src="https://raw.githubusercontent.com/AnubrataLab/anubratalab.github.io/main/images/Delete/route-optimization.jpg" alt="Logo" width="1000" height="600">
   </a>
 </p>
 
-Project : [GitHub @AnubrataLab](https://github.com/TravelPacker/Route-Optimization) (Private Repository : `researching`)
+Project : [GitHub @TravelPacker](https://github.com/TravelPacker/Route-Optimization) (Private Repository : `researching`)
 <br>
 YouTube : TBA
 <br>
