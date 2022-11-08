@@ -30,5 +30,36 @@
 				]
 			]
 		}
+	},
+
+	{
+		"id": "2",
+		"type": "conference-publication",
+		"title": "Baby Positioning using Quantization Aware Training for Edge Devices",
+		"container-title": "Online Conference to Unite Philips AI (OCUPAI’22)",
+		"source": "#",
+		"abstract": "The world is inherently becoming busier by the day, and this has also affected parents, especially new parents, in many ways. Sleep deprivation has also become a key factor for parents, as catering to the well-being for their newborns is more important. To cater for their reassurance, Mother and Child Care is researching a breathing analysis algorithm, that would reassure parents of their baby’s well-being. To cater to that need, we need to understand the position of the baby in real-time, which would allow us to derive the important segments from images that could be informative for breathing analysis. Inthis paper, we discuss about the baby positioning algorithm using Quantization Aware Training for Edge devices, which commands a Mean Average Precision of 86% on unseen videos.",
+		"author": [
+			{
+				"family": "Bhowmick",
+				"given": "A."
+			},
+			{
+				"family": "Khandelwal",
+				"given": "A."
+			},
+			{
+				"family": "Kang",
+				"given": "J."
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2021",
+					2
+				]
+			]
+		}
 	}
 ]

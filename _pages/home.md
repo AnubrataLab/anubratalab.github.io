@@ -10,7 +10,7 @@ permalink: /
   About
 </p>
 
-AnubrataLab AI is a `Machine Learning` `Deep Learning` research organization. Our teams aspire to make discoveries that impact everyone, and core to our approach is sharing our findings in the field. Our researchers publish regularly in academic journals, release projects as open source on GitHub, and apply these in real-world applications.<br> 
+AnubrataLab AI is a `Machine Learning` `Deep Learning` hobby research organization. Our teams aspire to make discoveries that impact everyone, and core to our approach is sharing our findings in the field. Our researchers try to publish regularly in academic journals, release projects as open source on GitHub, and apply these in real-world applications.<br> 
 
 You can take a look at our research on [Research Tab](https://anubratalab.github.io/research).
 
