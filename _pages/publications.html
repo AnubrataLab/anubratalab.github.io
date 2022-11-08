@@ -35,6 +35,8 @@ permalink: /publications/
             <!-- DOI -->
             {% if publi.DOI %}
                 <a href="https://doi.org/{{publi.DOI}}">DOI:{{publi.DOI}}</a>
+            {% else %}
+                <a href="{{publi.source}}"></a>
             {% endif %}
             </a>
         </div>
@@ -43,7 +45,7 @@ permalink: /publications/
             <div class="panel-body">
                 <p>{{ publi.abstract }}</p>
 
-                <a class="btn btn-outline-primary" href="https://doi.org/{{publi.DOI}}"
+                <a class="btn btn-outline-primary" href="{{publi.source}}"
                    role="button" target="blank">Link</a>
             </div>
         </div>
